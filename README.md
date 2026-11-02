@@ -28,3 +28,7 @@ The goal is to preserve the reasoning behind the build, not merely the final res
 ## Infrastructure status update (October 2026)
 
 The repurposed OptiPlex has since been inspected and deployed as a live Proxmox virtualization host. It now runs Linux workloads including a dedicated containerized media-server VM. The earlier description of Proxmox as not yet installed is superseded. Additional drive bays, faster networking, custom enclosure/rack integration, NAS purchases and cold-standby DNS failover remain planned rather than deployed. This update concerns compute deployment, not a completed hardware modification.
+
+## November 2026 project status
+
+The OptiPlex Proxmox host remains deployed. Jellyfin 12.4 and the Homepage dashboard are operational, and What's Up Docker provides container update visibility. No new hardware purchases or rack builds are claimed. The compact rack and faster wired networking remain planned and subject to fit, cooling, and testing.
