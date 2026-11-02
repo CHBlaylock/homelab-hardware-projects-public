@@ -32,3 +32,7 @@ The repurposed OptiPlex has since been inspected and deployed as a live Proxmox 
 ## November 2026 project status
 
 The OptiPlex Proxmox host remains deployed. Jellyfin 12.4 and the Homepage dashboard are operational, and What's Up Docker provides container update visibility. No new hardware purchases or rack builds are claimed. The compact rack and faster wired networking remain planned and subject to fit, cooling, and testing.
+
+## November 2, 2026 — infrastructure monitoring milestone
+
+The deployed Proxmox environment now includes a working Homepage What's Up Docker widget, showing monitored container and available-update counts. This is a software monitoring milestone; no new physical hardware or planned rack/network/NAS upgrades are claimed.
